@@ -41,7 +41,7 @@ public class FIFO implements ScheduleAlgo {
     }
 
     /**
-     * pass the todolist to priorityqueue
+     * pass the todolist to linkedlist
      * @param list
      */
     @Override
